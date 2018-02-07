@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517995017857.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C824D7C1",
+    "lastKnownWriteTime" : 1518000016,
+    "last_content_update" : 1518000016078,
+    "path" : "~/GitHub/ResBaz2018-talks/mblack_rstudioconf.Rmd",
+    "project_path" : "mblack_rstudioconf.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
