@@ -1,5 +1,7 @@
 .Rproj.user
-.Rproj.user/*
 .Rhistory
 .RData
 .Ruserdata
+test_plot_fanciest*.doc
+test_plot_fanciest*.pdf
+test_plot_fanciest*.md
