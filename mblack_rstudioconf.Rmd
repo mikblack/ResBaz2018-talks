@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## RStudio::conf
 
  - A year of growth...
-    - Inaugural RStudio::conf in 2017, ~350 attendees
+    - Inaugural RStudio::conf in 2017, ~450 attendees
     - Second RStudio::conf in 2018, >1000 attendees
  - TL;DR
     - RStudio is huge
